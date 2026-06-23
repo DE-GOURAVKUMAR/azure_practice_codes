@@ -1,0 +1,15 @@
+{
+	"name": "gpmoto1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf91b5f1-f3dc-4aac-82b5-6cc0c7ced11e",
+		"tenantId": "0b8e3282-0d17-48bc-a879-c8f63b54f22c"
+	}
+}
